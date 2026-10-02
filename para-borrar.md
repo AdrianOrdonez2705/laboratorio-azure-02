@@ -1,1 +1,0 @@
-# laboratorio-azure-02
